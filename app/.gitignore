@@ -1,0 +1,53 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Android Studio generated files and directories
+.idea/
+.gradle/
+build/
+captures/
+navigation/
+local.properties
+
+# Log files
+*.log
+
+# Android build output directory
+/app/build/
+
+# Java class files
+*.class
+
+# Built application files
+*.apk
+*.aar
+
+# ProGuard files
+proguard/
+
+# IntelliJ IDEA generated files
+*.ipr
+*.iws
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Keystore files
+*.jks
+*.keystore
+
+# Temporary files
+*.tmp
+*.temp
